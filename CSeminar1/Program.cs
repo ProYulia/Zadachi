@@ -171,3 +171,15 @@ num = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine("The answer is: " + 1/num);
 */
+
+static void Do(int n)
+    { 
+        n++;
+    } 
+
+    
+        int n = 0;
+        Do(n);
+        Console.WriteLine(n);
+
+
